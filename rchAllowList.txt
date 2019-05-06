@@ -16,6 +16,7 @@
 *Snoop_Noop*
 *Thomas_Lawson*
 *Alvaro_Welloso*
+*Mihail_Klimov*
 
 *Butcher_Wezers*
 *Gosha_Fantom*
