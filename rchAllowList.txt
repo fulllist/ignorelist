@@ -42,6 +42,9 @@
 *Misha_Shancev*
 *Nikolay_Kushnarev*
 *Dario_Brunelli*
+*Looney_Peers*
+*Brixton_Vandom*
+
 
 *Leonid_Litvinenko*
 *Doc_Elition*
@@ -68,3 +71,4 @@
 *Ioan_Grozny*
 *Tellarion_Foldring*
 *Salvatore_Giordano*
+*Sergo_Cross*
