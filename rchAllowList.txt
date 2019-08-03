@@ -25,6 +25,9 @@
 *Alberto_Clemente*
 *Giuseppe_Roell*
 *Daniel_Molotkov*
+*Vincento_Lapazzii*
+*Vincent_Vinograd*
+*Link_Maestro*
 
 
 *Butcher_Wezers*
@@ -51,6 +54,11 @@
 *Dario_Brunelli*
 *Looney_Peers*
 *Brixton_Vandom*
+*Andrey_Sheredega*
+*Julius_Visconti*
+*Lucian_Maclaine*
+*Keira_Voight*
+*Matthew_Taylor*
 
 
 *Leonid_Litvinenko*
@@ -72,7 +80,7 @@
 *Timur_Zlobin*
 *Christopher_Big*
 *Curtis_Jackson*
-
+*Looney_Peers*
 
 
 *Maxim_Kudryavtsev*
