@@ -58,6 +58,8 @@
 *Morgan_West*
 *Christopher_Runsey*
 *Maria_Rooney*
+*Christopher_Runsey*
+*Dima_Mayner*
 
 *Leonid_Litvinenko*
 *Doc_Elition*
@@ -84,7 +86,6 @@
 *Mickey_Gigante*
 *Dmitry_Dorinov*
 *Sebastian_Evans*
-*Dima_Mayner*
 
 
 *Maxim_Kudryavtsev*
