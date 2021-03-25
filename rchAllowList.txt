@@ -79,6 +79,8 @@
 *Edward_Thawne*
 *Evgeny_Korolyov*
 *Mike_Corton*
+*Tony_Walking*
+*Elvin_Hill*
 
 
 
@@ -216,6 +218,14 @@
 *Lil_Avergano*
 *Sebastian_Gastro*
 *Anthony_Weezy*
+*Acrome_Price*
+*Roberto_Oppenheimer*
+*Olzhas_Hatez*
+*Lil_Ballard*
+*Neo_Jostkiy*
+*Kurt_Cobain*
+*Lewinsky_Syntax*
+*Anthony_Cerezo*
 
 
 *Maxim_Kudryavtsev*
